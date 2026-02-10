@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blended-goit-js-asynchronous-promise-hw-10
-/",
+    "build": "vite build --base=/blended-goit-js-asynchronous-promise-hw-10/",
     "preview": "vite preview"
   },
   "devDependencies": {
