@@ -1,0 +1,1 @@
+{"version":3,"file":"1-timer.js","sources":["../src/js/1-timer.js"],"sourcesContent":["console.log(\"Timer\");\n// Описаний в документації\nimport flatpickr from \"flatpickr\";\n// Додатковий імпорт стилів\nimport \"flatpickr/dist/flatpickr.min.css\";\n"],"names":[],"mappings":"4HAAA,QAAQ,IAAI,OAAO"}
